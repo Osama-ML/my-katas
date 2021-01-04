@@ -1,4 +1,4 @@
-== ==
+== Who likes it? ==
 
 Kata description:
 
